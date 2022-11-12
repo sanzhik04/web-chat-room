@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	room "web-chat-room/models"
+	room "web-chat-room/backend/models"
 )
 
 var (

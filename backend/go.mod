@@ -1,5 +1,6 @@
-module web-chat-room
+module web-chat-room/backend
 
 go 1.19
 
 require github.com/gorilla/websocket v1.5.0
+
